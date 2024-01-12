@@ -1,4 +1,4 @@
-# FastAPI + Strawberry GraphQL API App
+# FastAPI + Strawberry GraphQL API App + JWT Tokens
 
 ### Instructions
 Create virt env
